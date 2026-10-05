@@ -1,0 +1,642 @@
+[
+  {
+    "query": "uncensored",
+    "model_id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+    "downloads": 2562002,
+    "likes": 1085,
+    "tags": [
+      "gguf",
+      "uncensored",
+      "gemma4",
+      "abliterated",
+      "vision",
+      "multimodal",
+      "audio",
+      "image-text-to-text",
+      "en",
+      "multilingual",
+      "license:gemma",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n# Gemma-4-E4B-Uncensored-HauhauCS-Aggressive\n\n> **[Join the Discord](https://discord.gg/SZ5vacTXYf)** for updates, roadmaps, projects, or just to chat.\n\nGemma 4 E4B-IT uncensored by HauhauCS. **0/465 Refusals\\***\n\n> **HuggingFace's \"Hardware Compatibility\" widget doesn't recognize K_P quants** \u2014 it"
+  },
+  {
+    "query": "uncensored",
+    "model_id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+    "downloads": 2143289,
+    "likes": 887,
+    "tags": [
+      "llama.cpp",
+      "gguf",
+      "uncensored",
+      "qwen3.8",
+      "mtp",
+      "speculative-decoding",
+      "imatrix",
+      "quantized",
+      "text-generation",
+      "en",
+      "zh",
+      "base_model:Qwen/Qwen3.8-27B",
+      "base_model:quantized:Qwen/Qwen3.8-27B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n# Qwen3.8-27B-Uncensored-GGUF\n\nUncensored [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B), published as GGUF\nquantizations with the multi token prediction (MTP) head retained and verified.\n\nRefusal behaviour has been **substantially reduced**, not eliminated. See Measured\nbehaviour for the n"
+  },
+  {
+    "query": "uncensored",
+    "model_id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+    "downloads": 2122773,
+    "likes": 2300,
+    "tags": [
+      "gguf",
+      "unsloth",
+      "fine tune",
+      "heretic",
+      "uncensored",
+      "abliterated",
+      "ara",
+      "MTP GGUF Quants",
+      "Regular GGUF Quants",
+      "qwen3.6",
+      "multi-stage tuned",
+      "thinking",
+      "reasoning",
+      "all use cases",
+      "coder",
+      "creative",
+      "creative writing",
+      "all genres",
+      "story",
+      "writing",
+      "fiction",
+      "roleplaying",
+      "bfloat16",
+      "multi-stage-tune",
+      "multi-state-merge",
+      "image-text-to-text",
+      "en",
+      "zh",
+      "dataset:DavidAU/Polar-STRICT-Datasets",
+      "dataset:DavidAU/F451-STRICT-Datasets",
+      "base_model:DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-MTP",
+      "base_model:quantized:DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-MTP",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n<small><b><font color=\"red\">Important:</font></b> This is the first fine tune to exceed 700 \"arc-c\" (The OpenAI, Claude and Gemini \"zone of intelligence\") \nin both 8 bit and 4 bit. This repo contains both \"regular\" and \"MTP\" Neo MAX Imatrix GGUF quants. Many other additional quant types avail too. "
+  },
+  {
+    "query": "uncensored",
+    "model_id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "downloads": 1995808,
+    "likes": 3566,
+    "tags": [
+      "gguf",
+      "uncensored",
+      "qwen3.6",
+      "moe",
+      "vision",
+      "multimodal",
+      "image-text-to-text",
+      "en",
+      "zh",
+      "multilingual",
+      "base_model:Qwen/Qwen3.6-35B-A3B",
+      "base_model:quantized:Qwen/Qwen3.6-35B-A3B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n# Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive\n\n> **[Join the Discord](https://discord.gg/SZ5vacTXYf)** for updates, roadmaps, projects, or just to chat.\n\nQwen3.6-35B-A3B uncensored by HauhauCS. **0/465 Refusals.**\n\n> **HuggingFace's \"Hardware Compatibility\" widget doesn't recognize K_P quants** "
+  },
+  {
+    "query": "uncensored",
+    "model_id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+    "downloads": 1276092,
+    "likes": 836,
+    "tags": [
+      "gguf",
+      "uncensored",
+      "qwen3.8",
+      "multimodal",
+      "vision",
+      "mtp",
+      "speculative-decoding",
+      "fastmtp",
+      "image-text-to-text",
+      "en",
+      "zh",
+      "multilingual",
+      "base_model:Qwen/Qwen3.8-27B",
+      "base_model:quantized:Qwen/Qwen3.8-27B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "uncensored"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n# Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP\n\n> **HauhauCS FastMTP: up to 3.02x document TG and 1.93x reasoning TG versus non-MTP \u2014 plus up to 35.2% more document TG and 21.1% more reasoning TG than standard embedded MTP.**\n\n> **[Join the Discord](https://discord.gg/SZ5vacTXYf)** for updates, r"
+  },
+  {
+    "query": "nsfw",
+    "model_id": "Falconsai/nsfw_image_detection",
+    "downloads": 4175398,
+    "likes": 1169,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "vit",
+      "image-classification",
+      "arxiv:2010.11929",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "deploy:azure",
+      "not-for-all-audiences"
+    ],
+    "risk_score": 23,
+    "risk_label": "MODERATE",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "nsfw"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "fine-tuned"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "nsfw"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "# Model Card: Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification\n\n## Model Description\n\nThe **Fine-Tuned Vision Transformer (ViT)** is a variant of the transformer encoder architecture, similar to BERT, that has been adapted for image classification tasks. This specific model, named \""
+  },
+  {
+    "query": "nsfw",
+    "model_id": "TostAI/nsfw-image-detection-large",
+    "downloads": 1585598,
+    "likes": 27,
+    "tags": [
+      "safetensors",
+      "focalnet",
+      "en",
+      "license:cc-by-nc-sa-4.0",
+      "region:us",
+      "not-for-all-audiences"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "nsfw"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "nsfw"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n# \ud83d\ude80 FocalNet NSFW Image Classifier: Your Content Moderation Superhero! \ud83e\uddb8\u200d\u2642\ufe0f\n\n## \ud83c\udf1f Discover the Power of Intelligent Moderation!\n\n\ud83d\udc4b Are you ready for a revolution in content moderation? Meet the FocalNet NSFW Image Classifier - your new, lightning-fast, and super-smart assistant in the battle agains"
+  },
+  {
+    "query": "nsfw",
+    "model_id": "AdamCodd/vit-base-nsfw-detector",
+    "downloads": 856847,
+    "likes": 82,
+    "tags": [
+      "base_model:google/vit-base-patch16-384",
+      "base_model:quantized:google/vit-base-patch16-384",
+      "deploy:azure",
+      "image-classification",
+      "license:apache-2.0",
+      "model-index",
+      "nlp",
+      "not-for-all-audiences",
+      "onnx",
+      "region:us",
+      "safetensors",
+      "transformers",
+      "transformers.js",
+      "vit"
+    ],
+    "risk_score": 0,
+    "risk_label": "LOW",
+    "flagged_categories": [],
+    "description_preview": ""
+  },
+  {
+    "query": "nsfw",
+    "model_id": "Freepik/nsfw_image_detector",
+    "downloads": 416548,
+    "likes": 61,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "timm_wrapper",
+      "image-classification",
+      "pytorch",
+      "arxiv:2303.11331",
+      "base_model:timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k",
+      "base_model:finetune:timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k",
+      "license:mit",
+      "endpoints_compatible",
+      "region:us",
+      "not-for-all-audiences",
+      "deploy:azure"
+    ],
+    "risk_score": 23,
+    "risk_label": "MODERATE",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "nsfw"
+        ],
+        "points": 4
+      },
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "fine-tuned"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "nsfw"
+        ],
+        "points": 1
+      }
+    ],
+    "description_preview": "\n# EVA-based Fast NSFW Image Classifier\n\n## Table of Contents\n- [Model Description](#model-description)\n- [Try it Online!](#try-it-online-)\n- [Model Performance Comparison](#model-performance-comparison)\n  - [Global Performance](#global-performance)\n  - [Accuracy by AI Content](#accuracy-by-ai-conte"
+  },
+  {
+    "query": "nsfw",
+    "model_id": "SexGod1979/PinkCherry_NSFW_LTX23",
+    "downloads": 278918,
+    "likes": 255,
+    "tags": [
+      "gguf",
+      "ltx-video",
+      "nfaa",
+      "nsfw",
+      "license:apache-2.0",
+      "region:us",
+      "not-for-all-audiences"
+    ],
+    "risk_score": 43,
+    "risk_label": "MODERATE",
+    "flagged_categories": [
+      {
+        "category": "Explicit content signals",
+        "hits": [
+          "nsfw",
+          "uncensored"
+        ],
+        "points": 8
+      },
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "lora"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "nsfw",
+          "uncensored",
+          "lora"
+        ],
+        "points": 3
+      }
+    ],
+    "description_preview": "\n\n\nSexGod PinkCherry v1.8 (see updates below)\ncleaning up this model page.\n\nVersion 1.8 is out. An updated workflow with negative video/audio prompts is available the workflows folder (look for v1.8)\n\n\nGGUF, fp8_scaled, bf16 and int8 versions are available for download.\n\ndistil lora is available at "
+  },
+  {
+    "query": "lora realistic",
+    "model_id": "Nitin66666666/hmfemme-realistic-1girl-lora-for-qwen",
+    "downloads": 457,
+    "likes": 0,
+    "tags": [
+      "diffusers",
+      "lora",
+      "migrated",
+      "qwen",
+      "realistic",
+      "stable-diffusion",
+      "style",
+      "template:sd-lora",
+      "text-to-image",
+      "woman",
+      "license:other",
+      "region:us"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "lora"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "stable-diffusion",
+          "lora",
+          "realistic"
+        ],
+        "points": 3
+      }
+    ],
+    "description_preview": "\n# HMFemme - Realistic 1girl LoRA for Qwen \n\n<Gallery />\n\nThis model was originally uploaded on [CivitAI](https://civitai.com/models/2126422), by [HearmemanAI](https://civitai.com/user/HearmemanAI/models). The information below was provided by the author on CivitAI:\n\n\n## Model description\n<p>I am ha"
+  },
+  {
+    "query": "lora realistic",
+    "model_id": "burnerbaby/hmfemme-realistic-1girl-lora-for-qwen",
+    "downloads": 408,
+    "likes": 28,
+    "tags": [
+      "diffusers",
+      "lora",
+      "migrated",
+      "qwen",
+      "realistic",
+      "stable-diffusion",
+      "style",
+      "template:sd-lora",
+      "text-to-image",
+      "woman",
+      "license:other",
+      "region:us"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "lora"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "stable-diffusion",
+          "lora",
+          "realistic"
+        ],
+        "points": 3
+      }
+    ],
+    "description_preview": "\n# HMFemme - Realistic 1girl LoRA for Qwen \n\n<Gallery />\n\nThis model was originally uploaded on [CivitAI](https://civitai.com/models/2126422), by [HearmemanAI](https://civitai.com/user/HearmemanAI/models). The information below was provided by the author on CivitAI:\n\n\n## Model description\n<p>I am ha"
+  },
+  {
+    "query": "lora realistic",
+    "model_id": "mramazan/flux-realistic-human-character-lora-2400step",
+    "downloads": 399,
+    "likes": 1,
+    "tags": [
+      "diffusers",
+      "text-to-image",
+      "lora",
+      "flux",
+      "character",
+      "template:diffusion-lora",
+      "dataset:mramazan/Synthetic-Character-Dataset-for-FLUX-LORA",
+      "base_model:black-forest-labs/FLUX.1-dev",
+      "base_model:adapter:black-forest-labs/FLUX.1-dev",
+      "license:other",
+      "region:us"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "lora"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "adult",
+          "lora",
+          "realistic"
+        ],
+        "points": 3
+      }
+    ],
+    "description_preview": "\n# FLUX.1-dev Character LoRA\n\nA character LoRA trained on FLUX.1-dev for a consistent photorealistic female character, portrayed as a young adult woman. Trained for 2400 steps with checkpoints saved every 200 steps, then compared across several checkpoints to pick the one that holds the character's "
+  },
+  {
+    "query": "lora realistic",
+    "model_id": "kristian1515/hmfemme-realistic-1girl-lora-for-qwen",
+    "downloads": 294,
+    "likes": 0,
+    "tags": [
+      "diffusers",
+      "lora",
+      "migrated",
+      "qwen",
+      "realistic",
+      "stable-diffusion",
+      "style",
+      "template:sd-lora",
+      "text-to-image",
+      "woman",
+      "license:other",
+      "region:us"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "lora"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "stable-diffusion",
+          "lora",
+          "realistic"
+        ],
+        "points": 3
+      }
+    ],
+    "description_preview": "\n# HMFemme - Realistic 1girl LoRA for Qwen \n\n<Gallery />\n\nThis model was originally uploaded on [CivitAI](https://civitai.com/models/2126422), by [HearmemanAI](https://civitai.com/user/HearmemanAI/models). The information below was provided by the author on CivitAI:\n\n\n## Model description\n<p>I am ha"
+  },
+  {
+    "query": "lora realistic",
+    "model_id": "ntc-ai/SDXL-LoRA-slider.ultra-realistic-illustration",
+    "downloads": 281,
+    "likes": 12,
+    "tags": [
+      "diffusers",
+      "text-to-image",
+      "stable-diffusion-xl",
+      "lora",
+      "template:sd-lora",
+      "template:sdxl-lora",
+      "sdxl-sliders",
+      "ntcai.xyz-sliders",
+      "concept",
+      "en",
+      "base_model:stabilityai/stable-diffusion-xl-base-1.0",
+      "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
+      "license:mit",
+      "region:us"
+    ],
+    "risk_score": 17,
+    "risk_label": "LOW",
+    "flagged_categories": [
+      {
+        "category": "Bypass/capability signals",
+        "hits": [
+          "lora"
+        ],
+        "points": 2
+      },
+      {
+        "category": "Suspicious tags",
+        "hits": [
+          "stable-diffusion",
+          "lora",
+          "realistic"
+        ],
+        "points": 3
+      }
+    ],
+    "description_preview": "# ntcai.xyz slider - ultra realistic illustration (SDXL LoRA)\n\n| Strength: -3 | Strength: 0 | Strength: 3 |\n| --- | --- | --- |\n| <img src=\"images/ultra realistic illustration_17_-3.0.png\" width=256 height=256 /> | <img src=\"images/ultra realistic illustration_17_0.0.png\" width=256 height=256 /> | <"
+  }
+]
